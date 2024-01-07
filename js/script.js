@@ -1,3 +1,5 @@
+// Test GitHub connection
+
 const randomFolks = document.querySelector(".random-peeps");
 
 const getData = async function() {
